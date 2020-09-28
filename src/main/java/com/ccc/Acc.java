@@ -11,6 +11,7 @@ public class Acc {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		SpringApplication.run(Acc.class, args);
+		System.out.println("b");
 
 	}
 
