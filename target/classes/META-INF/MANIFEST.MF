@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot7
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lexed
+Implementation-Vendor-Id: com.lexed
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/springboot7/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
